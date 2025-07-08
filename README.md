@@ -1,48 +1,36 @@
-# Hi there! 👋 I'm Phetphat Sanesri (RYU)
+# Phetphat Sanesri (RYU)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Information+Technology+Student;Deep+Learning+Explorer;LLM+Applications+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Information+Technology+Student;Deep+Learning+Researcher;LLM+Applications+Specialist" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Phetphat Sanesri"
         self.alias = "RYU"
-        self.location = "Thailand 🇹🇭"
+        self.location = "Thailand"
         self.education = "Bangkok Suvarnabhumi University"
         self.major = "Information Technology & Digital Innovation"
-        self.passions = ["AI", "Machine Learning", "Deep Learning", "LLMs"]
-        self.current_focus = ["RAG Systems", "Intelligent Agents", "Math for ML"]
+        self.focus_areas = ["AI", "Machine Learning", "Deep Learning", "LLMs"]
+        self.current_research = ["RAG Systems", "Intelligent Agents", "Mathematical ML"]
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future with AI 🤖")
-
-me = Developer()
-me.say_hi()
+    def get_contact(self):
+        return "aegitstestsolitude@gmail.com"
 ```
 
-## 🧠 Currently Learning
+## Current Learning Focus
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
-</div>
+- Mathematical Foundations for Machine Learning
+- Retrieval-Augmented Generation (RAG) Systems
+- LangChain Framework Development
+- Keras Deep Learning Implementation
 
-- 🔬 **Math for Machine Learning** - Building strong mathematical foundations
-- 🤖 **Retrieval-Augmented Generation (RAG)** - Enhancing AI with external knowledge
-- ⛓️ **LangChain** - Building powerful AI applications
-- 🧠 **Keras** - Deep learning framework mastery
-
-## 💻 Tech Stack
+## Technical Skills
 
 ### Programming Languages
 <p align="center">
@@ -78,7 +66,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-### Tools & Others
+### Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -86,7 +74,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryusr&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -97,12 +85,12 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryusr&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 🌟 Featured Projects
+## Featured Repositories
 
 <div align="center">
   <a href="https://github.com/ryusr">
@@ -113,15 +101,15 @@ me.say_hi()
   </a>
 </div>
 
-## 🎯 Current Goals
+## Research Interests
 
-- 🔭 Building intelligent RAG systems for real-world applications
-- 🌱 Deepening knowledge in transformer architectures
-- 👯 Looking to collaborate on AI/ML projects
-- 🤔 Exploring the intersection of AI and creative applications
-- 💬 Always open to discuss AI, ML, and emerging technologies
+- Development of intelligent RAG systems for enterprise applications
+- Advanced neural network architectures and optimization
+- Integration of large language models with traditional software systems
+- Mathematical foundations of machine learning algorithms
+- Collaborative AI systems and multi-agent frameworks
 
-## 🌐 Connect with Me
+## Professional Contact
 
 <div align="center">
   <a href="https://www.github.com/ryusr">
@@ -141,13 +129,5 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  **"The future belongs to those who learn more skills and combine them in creative ways."** - Robert Greene
-  
   <img src="https://komarev.com/ghpvc/?username=ryusr&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
