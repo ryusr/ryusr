@@ -104,10 +104,7 @@ class Developer:
 ## Research Interests
 
 - Development of intelligent RAG systems for enterprise applications
-- Advanced neural network architectures and optimization
-- Integration of large language models with traditional software systems
 - Mathematical foundations of machine learning algorithms
-- Collaborative AI systems and multi-agent frameworks
 
 ## Professional Contact
 
