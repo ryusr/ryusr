@@ -34,12 +34,6 @@ I am Phetphat Sanesri, an Information Technology & Digital Innovation student at
 - Keras
 - LangChain
 
-### Web Development
-- React
-- Next.js
-- FastAPI
-- HTML5 / CSS3
-
 ### Database & Cloud
 - PostgreSQL
 - MySQL
