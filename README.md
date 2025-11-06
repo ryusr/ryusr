@@ -26,7 +26,7 @@ I am Phetphat Sanesri, an Information Technology & Digital Innovation student at
 ### Programming Languages
 - Python
 - JavaScript / TypeScript
-- C# / C++ / C
+- C# / C++ / C / HTML
 
 ### AI & Machine Learning
 - TensorFlow
