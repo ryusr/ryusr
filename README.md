@@ -43,6 +43,7 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 - VS Code
 - Vim
 - Figma
+- Colab
 
 ---
 
