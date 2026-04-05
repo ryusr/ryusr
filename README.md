@@ -10,8 +10,6 @@ I am Phetphat Saensri, an Information Technology & Digital Innovation student at
 
 I am actively building a solid foundation in Machine Learning, Deep Learning, and Mathematics for Machine Learning, with a focus on creating scalable, efficient, and production-ready AI systems.
 
-**Contact:** aegitstestsolitude@gmail.com
-
 ---
 
 ## Education & Focus
