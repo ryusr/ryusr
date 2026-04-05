@@ -6,7 +6,7 @@
 
 ## About
 
-I am Phetphat Saensri, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand. I specialize in artificial intelligence, machine learning, and large language model applications with a focus on practical implementations and research.
+I am Phetphat Saensri, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand. I specialize in artificial intelligence, machine learning, and large language model applications with a focus on practical implementations.
 
 **Contact:** aegitstestsolitude@gmail.com
 
