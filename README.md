@@ -1,12 +1,14 @@
 # Phetphat Sanesri
 
-**AI & Machine Learning Developer | ITD Student | LLM Applications Specialist**
+**AI & Machine Learning | ITD Student | LLM Applications Focus**
 
 ---
 
 ## About
 
-I am Phetphat Saensri, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand. I specialize in artificial intelligence, machine learning, and large language model applications with a focus on practical implementations.
+I am Phetphat Saensri, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand, with a strong interest in leveraging large language models (LLMs) to solve problems and develop impactful AI applications.
+
+I am actively building a solid foundation in Machine Learning, Deep Learning, and Mathematics for Machine Learning, with a focus on creating scalable, efficient, and production-ready AI systems.
 
 **Contact:** aegitstestsolitude@gmail.com
 
