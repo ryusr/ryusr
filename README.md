@@ -18,7 +18,6 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 - **University:** Bangkok Suvarnabhumi University
 - **Major:** Information Technology & Digital Innovation
-- **Current Research:** RAG Systems, Intelligent Agents, Mathematical ML
 - **Learning Focus:** Mathematical Foundations for ML, LangChain Framework, Keras Implementation
 
 ---
@@ -49,16 +48,7 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ---
 
-## Research Interests
-
-- Development of intelligent RAG systems for enterprise applications
-- Mathematical foundations of machine learning algorithms
-- Large Language Model optimization and deployment
-- Deep Learning architectures and implementations
-
----
-
-## Professional Links
+## Links
 
 - **GitHub:** [github.com/ryusr](https://github.com/ryusr)
 - **Email:** aegitstestsolitude@gmail.com
