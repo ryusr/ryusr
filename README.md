@@ -26,8 +26,8 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ### Programming Languages
 - Python
-- JavaScript / TypeScript
-- C# / C++ / C / HTML
+- JavaScript / TypeScript / CSS / HTML
+- C# / C++ / C 
 
 ### AI & Machine Learning
 - TensorFlow
@@ -57,4 +57,4 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ---
 
-*Currently focused on advancing AI/ML research and building practical applications for real-world problems.*
+*Currently learning and developing my skills in AI and machine learning, with an interest in applying them to problems through practical projects.*
