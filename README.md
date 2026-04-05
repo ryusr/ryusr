@@ -37,6 +37,8 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 - PostgreSQL
 - MySQL
 - Google Cloud Platform
+- Firebase
+- Access
 
 ### Development Tools
 - Git
