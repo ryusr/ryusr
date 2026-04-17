@@ -75,37 +75,6 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=donut&theme=github_dark&hide_border=true" height="220"/>
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-Python  
-████████████████████ 88%
-
-LangChain  
-█████████████████░░░ 75%
-
-TensorFlow  
-████████████████░░░░ 72%
-
-</td>
-
-<td width="50%">
-
-PyTorch  
-████████████████░░░░ 68%
-
-JavaScript  
-████████████████░░░░ 68%
-
-C# / C++  
-██████████████░░░░░░ 60%
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Real-Time Stats
