@@ -4,6 +4,8 @@
 
 **AI & Machine Learning | ITD Student | LLM Applications Focus**
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;LLM+Application+Builder;Machine+Learning+Explorer" />
+
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-D85A30?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
@@ -24,15 +26,15 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 | | |
 |---|---|
-| 🎓 **University** | Bangkok Suvarnabhumi University |
-| 📚 **Major** | Information Technology & Digital Innovation |
-| 🔬 **Learning Focus** | Mathematical Foundations for ML, LangChain Framework, Keras Implementation |
+| University | Bangkok Suvarnabhumi University |
+| Major | Information Technology & Digital Innovation |
+| Learning Focus | Mathematical Foundations for ML, LangChain Framework, Keras Implementation |
 
 ---
 
 ## Technical Expertise
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,14 +45,14 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -58,7 +60,7 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
 
-### 🛠️ Development Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -70,14 +72,26 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ## Skill Proficiency
 
-```
-Python         ████████████████████░░░  88%
-LangChain      ██████████████████░░░░░  75%
-TensorFlow     ████████████████░░░░░░░  72%
-PyTorch        ████████████████░░░░░░░  68%
-JavaScript     ████████████████░░░░░░░  68%
-C# / C++       ██████████████░░░░░░░░░  60%
-```
+
+---
+
+## Real-Time Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryusr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=ryusr&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryusr&theme=github-compact&hide_border=true"/>
 
 ---
 
@@ -92,6 +106,6 @@ C# / C++       ██████████████░░░░░░░�
 
 <div align="center">
 
-🟢 *Currently learning and developing my skills in AI and machine learning, with an interest in applying them to problems through practical projects.*
+Currently learning and developing my skills in AI and machine learning, with an interest in applying them to problems through practical projects.
 
 </div>
