@@ -4,8 +4,6 @@
 
 **AI & Machine Learning | ITD Student | LLM Applications Focus**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;LLM+Application+Builder;Machine+Learning+Explorer" />
-
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-D85A30?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
@@ -72,6 +70,41 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ## Skill Proficiency
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=donut&theme=github_dark&hide_border=true" height="220"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+Python  
+████████████████████ 88%
+
+LangChain  
+█████████████████░░░ 75%
+
+TensorFlow  
+████████████████░░░░ 72%
+
+</td>
+
+<td width="50%">
+
+PyTorch  
+████████████████░░░░ 68%
+
+JavaScript  
+████████████████░░░░ 68%
+
+C# / C++  
+██████████████░░░░░░ 60%
+
+</td>
+</tr>
+</table>
 
 ---
 
