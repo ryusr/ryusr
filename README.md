@@ -106,9 +106,3 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 [![YouTube](https://img.shields.io/badge/YouTube-%40akiraz3282-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akiraz3282)
 
 ---
-
-<div align="center">
-
-Currently learning and developing my skills in AI and machine learning, with an interest in applying them to problems through practical projects.
-
-</div>
