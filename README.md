@@ -2,11 +2,13 @@
 
 # Phetphat Seansri
 
-**AI & Machine Learning | ITD Student | LLM Applications Focus**
+**AI | ITD Student | Innovation**
 
-[![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-D85A30?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+[![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+[![Machine Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+
 
 </div>
 
@@ -26,7 +28,7 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 |---|---|
 | University | Bangkok Suvarnabhumi University |
 | Major | Information Technology & Digital Innovation |
-| Learning Focus | Mathematical Foundations for ML, LangChain Framework, Keras Implementation |
+| Learning Focus | Math for ML, LLM Applications, Deep Learning, Machine Learning |
 
 ---
 
@@ -60,11 +62,10 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
