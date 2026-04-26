@@ -2,13 +2,12 @@
 
 # Phetphat Seansri
 
-**AI | ITD Student | Innovation**
+**ITD Student | AI | Innovation**
 
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-D85A30?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![Machine Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 
 </div>
 
@@ -28,7 +27,7 @@ I am actively building a solid foundation in Machine Learning, Deep Learning, an
 |---|---|
 | University | Bangkok Suvarnabhumi University |
 | Major | Information Technology & Digital Innovation |
-| Learning Focus | Math for ML, LLM Applications, Deep Learning, Machine Learning |
+| Learning Focus | Math for ML, LLM Applications, Machine Learning, Deep Learning |
 
 ---
 
