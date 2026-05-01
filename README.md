@@ -1,11 +1,11 @@
 <div align="center">
   
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0000&height=80&text=Phetphat%20Seansri&fontColor=C9A84C&fontSize=40&fontAlign=50&fontAlignY=65&desc=ITD%20Student%20%7C%20AI%20%7C%20Innovation&descColor=8B6914&descSize=16&descAlignY=90"/>
+<h1 style="font-family: 'Cinzel', serif; color: #C9A84C; font-size: 36px; font-weight: 700;">
 <br/>
 
 <!-- GIF -->
-<h1 style="font-family: 'Cinzel', serif; color: #C9A84C; font-size: 36px; font-weight: 700;">
+
 
 
 **`ITD Student · AI · Innovation`**
