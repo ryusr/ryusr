@@ -10,7 +10,7 @@
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
 
 </div>
-![my gif](./assets/phainon1.gif)
+![my gif](assets/phainon1.gif)
 
 ---
 
