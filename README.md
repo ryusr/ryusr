@@ -21,11 +21,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="100%"/>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header"/>
-</div>
-
 ## `▸` About
 
 > I am **Phetphat Seansri**, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand, with a strong interest in leveraging large language models (LLMs) to solve problems and develop impactful AI applications — building a solid foundation in **Machine Learning**, **Deep Learning**, and **Mathematics for Machine Learning**, with a focus on creating scalable, efficient, and production-ready AI systems.
