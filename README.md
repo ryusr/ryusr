@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11&customColor=6B0000,1A0000&height=120&section=header&fontColor=C9A84C&animation=fadeIn"/>
-
 <br/>
 
 <!-- GIF -->
