@@ -1,7 +1,6 @@
 <div align="center">
 
 <br/>
-
 <!-- GIF -->
 <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
 
@@ -43,9 +42,9 @@
 
 | | |
 |:---:|:---|
-| 🏛️ **University** | Bangkok Suvarnabhumi University |
-| 📚 **Major** | Information Technology & Digital Innovation |
-| 🎯 **Focus** | Math for ML · LLM Applications · Machine Learning · Deep Learning |
+| **University** | Bangkok Suvarnabhumi University |
+| **Major** | Information Technology & Digital Innovation |
+| **Focus** | Math for ML · LLM Applications · Machine Learning · Deep Learning |
 
 </div>
 
@@ -131,4 +130,3 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11&customColor=6B0000,1A0000&height=80&section=footer"/>
