@@ -27,7 +27,7 @@
 
 ## `▸` Education & Focus
 
-
+<div align="center">
 
 | | |
 |:---:|:---|
