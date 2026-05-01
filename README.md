@@ -1,15 +1,16 @@
 <div align="center">
-
-<br/>
-<!-- GIF -->
-<img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
-
+  
 <br/><br/>
 
 <!-- Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
 
 <br/>
+
+<br/>
+<!-- GIF -->
+<img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
+
 
 **`ITD Student · AI · Innovation`**
 
