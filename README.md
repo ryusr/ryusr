@@ -108,3 +108,9 @@ I am Phetphat Seansri, an Information Technology & Digital Innovation student at
 [![YouTube](https://img.shields.io/badge/YouTube-%40akiraz3282-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akiraz3282)
 
 ---
+
+![my gif](https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d1.gif)
+
+![my gif](https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d3.gif)
+
+![my gif](https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d2.gif)
