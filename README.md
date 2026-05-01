@@ -1,8 +1,7 @@
 <div align="center">
   
 <br/>
-<!-- Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0000&height=80&text=Phetphat%20Seansri&fontColor=C9A84C&fontSize=40&fontAlign=50&fontAlignY=65&desc=ITD%20Student%20%7C%20AI%20%7C%20Innovation&descColor=8B6914&descSize=16&descAlignY=90"/>
 <br/>
 
 <!-- GIF -->
@@ -10,15 +9,12 @@
 
 
 **`ITD Student · AI · Innovation`**
-
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 
-</div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="100%"/>
 
 ---
 ## `▸` About
