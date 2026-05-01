@@ -1,10 +1,11 @@
 <div align="center">
   
 <br/>
-<h1 style="font-family: 'Cinzel', serif; color: #C9A84C; font-size: 36px; font-weight: 700;">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
 <br/>
 
 <!-- GIF -->
+<img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
 
 
 
