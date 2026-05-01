@@ -5,7 +5,7 @@
 <br/>
 
 <!-- GIF -->
-<img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
+<h1 style="font-family: 'Cinzel', serif; color: #C9A84C; font-size: 36px; font-weight: 700;">
 
 
 **`ITD Student · AI · Innovation`**
