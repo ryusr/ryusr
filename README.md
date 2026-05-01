@@ -1,20 +1,15 @@
 <div align="center">
   
-<br/><br/>
-
+<br/>
 <!-- Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
-
 <br/>
 
-<br/>
 <!-- GIF -->
 <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
 
 
 **`ITD Student · AI · Innovation`**
-
-<br/>
 
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
