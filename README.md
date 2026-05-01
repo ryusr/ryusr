@@ -12,7 +12,9 @@
 </div>
 
 
-![my gif](https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d1.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d1.gif" alt="Profile GIF" width="400" />
+</div>
 
 
 ---
