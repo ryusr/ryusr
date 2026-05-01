@@ -1,7 +1,7 @@
 <div align="center">
   
 <br/>
-<h1 align="center" style="font-family: 'Cinzel', serif; font-size: 36px; color: #C9A84C;">Phetphat Seansri</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
 <br/>
 
 <!-- GIF -->
