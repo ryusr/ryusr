@@ -87,33 +87,6 @@
 
 ---
 
-## `▸` Skill Proficiency
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=donut&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&border_color=6B0000&hide_border=false" height="220"/>
-
-</div>
-
----
-
-## `▸` Real-Time Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ryusr&show_icons=true&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&icon_color=6B0000&border_color=6B0000&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=compact&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&border_color=6B0000" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=ryusr&background=0D0000&ring=6B0000&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=8B6914&border=6B0000&stroke=6B0000"/>
-
-</div>
-
----
-
-## `▸` Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryusr&bg_color=0D0000&color=C9A84C&line=6B0000&point=C9A84C&area=true&area_color=6B0000&hide_border=false&border_color=6B0000"/>
 
 ---
 
