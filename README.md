@@ -1,112 +1,137 @@
 <div align="center">
 
-# Phetphat Seansri
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11&customColor=6B0000,1A0000&height=120&section=header&fontColor=C9A84C&animation=fadeIn"/>
 
-**ITD Student | AI | Innovation**
+<br/>
 
-[![Math for ML](https://img.shields.io/badge/Math%20for%20ML-D85A30?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1D9E75?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white)](https://github.com/ryusr)
+<!-- GIF -->
+<img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" width="800"/>
+
+<br/><br/>
+
+<!-- Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Phetphat+Seansri" alt="Name"/>
+
+<br/>
+
+**`ITD Student · AI · Innovation`**
+
+<br/>
+
+[![Math for ML](https://img.shields.io/badge/Math%20for%20ML-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
+[![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="100%"/>
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" alt="Profile GIF" width="1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header"/>
 </div>
 
+## `▸` About
+
+> I am **Phetphat Seansri**, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand, with a strong interest in leveraging large language models (LLMs) to solve problems and develop impactful AI applications — building a solid foundation in **Machine Learning**, **Deep Learning**, and **Mathematics for Machine Learning**, with a focus on creating scalable, efficient, and production-ready AI systems.
 
 ---
 
-## About
+## `▸` Education & Focus
 
-I am Phetphat Seansri, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand, with a strong interest in leveraging large language models (LLMs) to solve problems and develop impactful AI applications and building a solid foundation in Machine Learning, Deep Learning, and Mathematics for Machine Learning, with a focus on creating scalable, efficient, and production-ready AI systems.
-
----
-
-## Education & Focus
+<div align="center">
 
 | | |
-|---|---|
-| University | Bangkok Suvarnabhumi University |
-| Major | Information Technology & Digital Innovation |
-| Learning Focus | Math for ML, LLM Applications, Machine Learning, Deep Learning |
+|:---:|:---|
+| 🏛️ **University** | Bangkok Suvarnabhumi University |
+| 📚 **Major** | Information Technology & Digital Innovation |
+| 🎯 **Focus** | Math for ML · LLM Applications · Machine Learning · Deep Learning |
+
+</div>
 
 ---
 
-## Technical Expertise
+## `▸` Technical Expertise
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-1A0000?style=flat-square&logo=python&logoColor=C9A84C)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A0000?style=flat-square&logo=javascript&logoColor=C9A84C)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A0000?style=flat-square&logo=typescript&logoColor=C9A84C)
+![CSS](https://img.shields.io/badge/CSS-1A0000?style=flat-square&logo=css3&logoColor=C9A84C)
+![HTML](https://img.shields.io/badge/HTML-1A0000?style=flat-square&logo=html5&logoColor=C9A84C)
+![C#](https://img.shields.io/badge/C%23-1A0000?style=flat-square&logo=csharp&logoColor=C9A84C)
+![C++](https://img.shields.io/badge/C++-1A0000?style=flat-square&logo=cplusplus&logoColor=C9A84C)
+![C](https://img.shields.io/badge/C-1A0000?style=flat-square&logo=c&logoColor=C9A84C)
 
 ### AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A0000?style=flat-square&logo=tensorflow&logoColor=C9A84C)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A0000?style=flat-square&logo=pytorch&logoColor=C9A84C)
+![Keras](https://img.shields.io/badge/Keras-1A0000?style=flat-square&logo=keras&logoColor=C9A84C)
+![LangChain](https://img.shields.io/badge/LangChain-1A0000?style=flat-square&logo=langchain&logoColor=C9A84C)
 
 ### Database & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A0000?style=flat-square&logo=postgresql&logoColor=C9A84C)
+![MySQL](https://img.shields.io/badge/MySQL-1A0000?style=flat-square&logo=mysql&logoColor=C9A84C)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1A0000?style=flat-square&logo=googlecloud&logoColor=C9A84C)
+![Firebase](https://img.shields.io/badge/Firebase-1A0000?style=flat-square&logo=firebase&logoColor=C9A84C)
+![MS Access](https://img.shields.io/badge/MS%20Access-1A0000?style=flat-square&logo=microsoftaccess&logoColor=C9A84C)
 
 ### Development Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1A0000?style=flat-square&logo=visualstudiocode&logoColor=C9A84C)
+![Vim](https://img.shields.io/badge/Vim-1A0000?style=flat-square&logo=vim&logoColor=C9A84C)
+![Colab](https://img.shields.io/badge/Colab-1A0000?style=flat-square&logo=googlecolab&logoColor=C9A84C)
+![Git](https://img.shields.io/badge/Git-1A0000?style=flat-square&logo=git&logoColor=C9A84C)
 
 ---
 
-## Skill Proficiency
+## `▸` Skill Proficiency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=donut&theme=github_dark&hide_border=true" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=donut&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&border_color=6B0000&hide_border=false" height="220"/>
 
 </div>
 
 ---
 
-## Real-Time Stats
+## `▸` Real-Time Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryusr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ryusr&show_icons=true&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&icon_color=6B0000&border_color=6B0000&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusr&layout=compact&bg_color=0D0000&title_color=C9A84C&text_color=C9A84C&border_color=6B0000" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=ryusr&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ryusr&background=0D0000&ring=6B0000&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=8B6914&border=6B0000&stroke=6B0000"/>
 
 </div>
 
 ---
 
-## Activity Graph
+## `▸` Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryusr&theme=github-compact&hide_border=true"/>
-
----
-
-## Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-ryusr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryusr)
-[![Email](https://img.shields.io/badge/Email-aegitstestsolitude%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aegitstestsolitude@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-phetphat.sane.sri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phetphat.sane.sri/)
-[![YouTube](https://img.shields.io/badge/YouTube-%40akiraz3282-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akiraz3282)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryusr&bg_color=0D0000&color=C9A84C&line=6B0000&point=C9A84C&area=true&area_color=6B0000&hide_border=false&border_color=6B0000"/>
 
 ---
+
+## `▸` Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ryusr-1A0000?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/ryusr)
+[![Email](https://img.shields.io/badge/Email-Contact-1A0000?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:aegitstestsolitude@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1A0000?style=for-the-badge&logo=facebook&logoColor=C9A84C)](https://www.facebook.com/phetphat.sane.sri/)
+[![YouTube](https://img.shields.io/badge/YouTube-%40akiraz3282-1A0000?style=for-the-badge&logo=youtube&logoColor=C9A84C)](https://www.youtube.com/@akiraz3282)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11&customColor=6B0000,1A0000&height=80&section=footer"/>
