@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/d1.gif" alt="Profile GIF" width="1000" />
+  <img src="https://raw.githubusercontent.com/ryusr/Phainon_gif/main/assets/ezgif-4fdda0fe0f3fe173.gif" alt="Profile GIF" width="1000" />
 </div>
 
 
