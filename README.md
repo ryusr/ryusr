@@ -10,6 +10,7 @@
 
 
 **`ITD Student · AI · Innovation`**
+
 [![Math for ML](https://img.shields.io/badge/Math%20for%20ML-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
