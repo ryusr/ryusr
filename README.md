@@ -21,7 +21,7 @@
 ---
 ## `▸` About
 
-> I am Phetphat Seansri, an aspiring developer passionate about leveraging large language models (LLMs) to build impactful AI applications—focused on Machine Learning, Deep Learning, and the mathematics behind them, with an emphasis on creating scalable, production-ready systems, and exploring the application of AI in video games.
+> I am Phetphat Seansri, an aspiring developer with a strong interest in leveraging large language models (LLMs) to develop impactful AI applications. My focus lies in Machine Learning, Deep Learning, and the mathematical foundations that support them, with an emphasis on building scalable, efficient, and production-ready systems. I am also particularly interested in the application of AI within video game development.
 
 ---
 
