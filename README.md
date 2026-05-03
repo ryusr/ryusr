@@ -21,7 +21,7 @@
 ---
 ## `▸` About
 
-> I am **Phetphat Seansri**, an Information Technology & Digital Innovation student at Bangkok Suvarnabhumi University, Thailand, with a strong interest in leveraging large language models (LLMs) to solve problems and develop impactful AI applications — building a solid foundation in **Machine Learning**, **Deep Learning**, and **Mathematics for Machine Learning**, with a focus on creating scalable, efficient, and production-ready AI systems.
+> I am Phetphat Seansri, an aspiring developer passionate about leveraging large language models (LLMs) to build impactful AI applications—focused on Machine Learning, Deep Learning, and the mathematics behind them, with an emphasis on creating scalable, production-ready systems, and exploring the application of AI in video games.
 
 ---
 
