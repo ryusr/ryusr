@@ -21,7 +21,7 @@
 ---
 ## `▸` About
 
-> I am **Phetphat Seansri**, or you can call me **Atom**, an aspiring developer with a strong interest in leveraging large language models (LLMs) to develop impactful AI applications. My focus lies in Machine Learning, Deep Learning, and the mathematical foundations that support them, with an emphasis on building scalable, efficient, and production-ready systems. I am also currently beginning to explore the integration of AI into video games—particularly in areas such as dynamic storytelling, NPC decision-making, and creating more open, adaptive, and realistic in-game environments.
+> I am **Phetphat Seansri**, or you can call me **Atom**, an Student interest in leveraging large language models (LLMs) to develop impactful AI applications. My focus lies in Machine Learning, Deep Learning, and the mathematical foundations that support them, with an emphasis on building scalable, efficient, and production-ready systems. I am also currently beginning to explore the integration of AI into video games—particularly in areas such as dynamic storytelling, NPC decision-making, and creating more open, adaptive, and realistic in-game environments.
 
 ## `▸` Education & Focus
 
