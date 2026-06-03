@@ -15,8 +15,8 @@
 [![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
-[![GAME](https://img.shields.io/badge/Deep%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
-[![Robotic](https://img.shields.io/badge/Deep%20Learning-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
+[![GAME](https://img.shields.io/badge/GAME-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
+[![Robotic](https://img.shields.io/badge/Robotic-6B0000?style=for-the-badge&logoColor=C9A84C&labelColor=1A0000)](https://github.com/ryusr)
 
 
 
