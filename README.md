@@ -23,7 +23,7 @@
 ---
 ## `▸` About
 
-> I am Phetphat Seansri (Atom), a student passionate about building impactful AI applications with LLMs. My interests focus on Machine Learning, Deep Learning, and scalable AI systems, while also exploring AI integration in video games
+> I am Phetphat Seansri (Atom), a student passionate about building impactful AI-driven solutions that create real-world value. My interests span Machine Learning, Deep Learning, and Large Language Models (LLMs), with a strong focus on designing intelligent systems that are practical, scalable, and user-centered. I am continuously exploring emerging AI technologies and their applications across diverse industries, while developing the technical and problem-solving skills needed to contribute to the future of artificial intelligence.
 
 ## `▸` Education & Focus
 
